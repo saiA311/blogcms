@@ -1,0 +1,10 @@
+.postlist {
+  width: 60%;
+  margin: auto;
+}
+.post_failed > h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 100px;
+}
